@@ -5,3 +5,5 @@ The user clicks generat password button and then is prompted to inter between 8 
 # Technologies Used
 
 HTML, CSS, JAVASCRIPT
+
+https://ayele4.github.io/javascript-password-generator/
